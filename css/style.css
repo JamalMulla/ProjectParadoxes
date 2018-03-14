@@ -7,7 +7,7 @@ body{
     background-color: #2a2f35;
 }
 .navbar{
-    border-bottom: #d13a50 3px solid;
+    border-bottom: #f24f65 3px solid;
 
 }
 
@@ -20,7 +20,7 @@ html, body{
 }
 
 .pink{
-    color: #d13a50;
+    color: #f24f65;
 }
 
 #front-title{
@@ -34,7 +34,7 @@ html, body{
 .title{
     padding-top: 80px;
 }
-/* about pages*/
+
 
 .about-head{
     padding: 154px 0 100px;
@@ -42,12 +42,17 @@ html, body{
     color: #34373d;
 }
 
+.references{
+    background: #2a2f35;
+    word-wrap: break-word;
+}
+
 .sec{
-    padding: 40px;
+    padding: 25px;
 }
 .par{
     padding-top: 10px;
-    padding-bottom: 30px;
+    padding-bottom: 25px;
     text-align: justify;
 }
 .about{
@@ -61,7 +66,7 @@ html, body{
 }
 
 .large-title{
-    color:#d13a50;
+    color:#f24f65;
     font-size: 32px;
     text-align: center;
     
@@ -75,10 +80,11 @@ html, body{
     width: 200px;
 }
 
-
+.footer{
+padding-top: 20px;}
 
 sup{
-    color: #f14a60;
+    color: #f24f65;
 }
 
 
@@ -87,7 +93,7 @@ sup{
     text-align: justify;
     line-height: 1.3em;
     font-size: 18px;
-        color: #f14a60;
+        color: #f24f65;
 }
 
 
@@ -113,7 +119,7 @@ section {
     display: inline-block;
 }
 .social ul li a {
-    color: #d13a50;
+    color: #f24f65;
 }
 .social i {
     width: 40px;
