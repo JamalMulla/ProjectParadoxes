@@ -35,6 +35,14 @@ html, body{
     padding-top: 80px;
 }
 
+plink:link{
+    color: inherit;
+}
+plink:visited{
+    color: #f24f65;
+    text-decoration: none;
+}
+
 
 .about-head{
     padding: 154px 0 100px;
@@ -49,6 +57,11 @@ html, body{
 
 .sec{
     padding: 25px;
+}
+
+.caption{
+    font-style: italic;
+    padding-bottom: 15px;
 }
 .par{
     padding-top: 10px;
